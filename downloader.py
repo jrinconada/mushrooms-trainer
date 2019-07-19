@@ -1,5 +1,6 @@
 from urllib.request import urlopen, Request
 import requests
+import os
 
 def get_page(name):
     base_url = 'http://www.mushroom.world/show?n='
@@ -12,11 +13,14 @@ def get_page(name):
 
 def download_image(name):
     base_url = 'http://www.mushroom.world/data/fungi/'
+    folder = 'training_data/' + name[0].lower() + '_' + name[1].lower() + '/'
+    if not os.path.exists(folder):
+        os.makedirs(folder)
     for i in range(1,7):
         image = name[0] + name[1] + str(i) + '.JPG'
         url = base_url + image
         data = requests.get(url).content
-        with open(image, 'wb') as handler:
+        with open(folder + image, 'wb') as handler:
             handler.write(data)
 
 # Read the names of the mushrooms from a file
@@ -33,7 +37,8 @@ for name in names:
     scientific_names.append((words[0], words[1]))
 
 # Dowload all the images
-download_image(scientific_names[0])
+for mushroom in scientific_names:
+    download_image(mushroom)
 
 # To get an specific mushroom page
 # get_page('http://www.mushroom.world/show?n=Agaricus-arvensis')
