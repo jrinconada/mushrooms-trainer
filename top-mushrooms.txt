@@ -1,0 +1,24 @@
+﻿Agaricus arvensis
+Amanita muscaria
+Amanita phalloides
+Amanita virosa
+Boletus edulis		(Boletus)
+Calocybe gambosa
+Cantharellus cibarius
+Coprinus comatus
+Cortinarius orellanus
+Galerina marginata
+Gyromitra esculenta
+Lactarius deliciosus	(Níscalo)
+Lepista nuda
+Macrolepiota procera
+Marasmius oreades	(Serenduela)
+Paxillus involutus
+Turbinellus floccosus
+
+Agaricus bisporus	(Champiñón)
+Amanita caesarea	(Oronja)
+Clitocybe Geotropa 	(Cabeza de fraile)
+Craterellus cinereus	(Trompeta de los muertos)
+Pleurotus eryngii	(Seta de cardo)
+Tuber melanosporum	(Trufa negra)
