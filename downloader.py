@@ -47,4 +47,4 @@ def download_all(scientific_names):
 names = read_mushroom_list('mushroom-list.txt')
 
 # To get an specific mushroom page
-# get_page('http://www.mushroom.world/show?n=Agaricus-arvensis')
+get_page(names[0])
