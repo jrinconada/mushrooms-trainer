@@ -1,0 +1,155 @@
+[
+    {
+        "scientific" : "Agaricus arvensis",
+        "common" : "Horse Mushroom",
+        "edibility" : "Edible and good",
+        "description" : "Agaricus arvensis, commonly known as the horse mushroom, is a sometimes massive agaric that has a white cap, ringed stem, and pink or chocolate colored gills."
+    },
+
+    {
+        "scientific" : "Amanita muscaria",
+        "common" : "Fly Amanita",
+        "edibility" : "Poisonous",
+        "description" : "Amanita muscaria, commonly known as the fly agaric or fly amanita, is a medium to large, fleshy agaric, with red cap, white patches, white gills, ring and a bulbous base. It grows on poor and sandy soils and the fruiting bodies emerge from the soil looking like white eggs."
+    },
+    
+    {
+        "scientific" : "Amanita phalloides",
+        "common" : "Death Cap Amanita",
+        "edibility" : "Lethally poisonous",
+        "description" : "This is a lethally poisonous, medium to large, fleshy agaric with greenish olive cap, whitish stem, ring, no patches but distinctive volval sheath. As the volva, which may be hidden by leaf litter, is a distinctive and diagnostic feature, it is important to remove some debris to check for it."
+    },
+    
+    {
+        "scientific" : "Amanita virosa",
+        "common" : "Destroying angel",
+        "edibility" : "Lethally poisonous",
+        "description" : "Amanita virosa, also known as Destroying angel, is a lethally poisonous, medium large to large, white fleshy mushroom with a shaggy stalk and volval bag. It grows solitary or scattered on soil in broad-leaf or mixed woods."
+    },
+    
+    {
+        "scientific" : "Boletus edulis",
+        "common" : "Cep",
+        "edibility" : "Edible and excellent",
+        "description" : "This is a large, robust bolete with dull brown cap, dirty white pores and stout and swollen stem. It has a white net over upper stem. It is a very popular, delicious, meaty mushroom that grows almost all over the world."
+    },
+    
+    {
+        "scientific" : "Calocybe gambosa",
+        "common" : "St. George's mushroom",
+        "edibility" : "Edible",
+        "description" : "Calocybe gambosa, commonly known as St. George's mushroom, is an edible, medium to large, fleshy, cream mushroom which typically grows in rings or troops on soil. It is most commonly found in pastures but also less frequently appearing in mixed woods."
+    },
+    
+    {
+        "scientific" : "Cantharellus cibarius",
+        "common" : "Common Chantarelle",
+        "edibility" : "Edible and excellent",
+        "description" : "This mushroom is typically orange or yellow, meaty and funnel-shaped. On the lower surface, underneath the smooth cap, it has gill-like ridges that run almost all the way down its stem, which tapers down seamlessly from the cap."
+    },
+    
+    {
+        "scientific" : "Coprinus comatus",
+        "common" : "Shaggy-mane Inky Cap",
+        "edibility" : "Edible and good",
+        "description" : "Coprinus comatus, also known as shaggy-mane ink cap, or lawyer's wig is a common fungus which has a white, conical, shaggy cap which blackens. It grows in scattered trooping groups on soil in short grass."
+    },
+    
+    {
+        "scientific" : "Cortinarius orellanus",
+        "common" : "Fool's Webcap",
+        "edibility" : "Lethally poisonous",
+        "description" : "Cortinarius orellanus, also know as Fool's Webcap, is is a medium sized agaric with tawny brown, bluntu umbonate cap. The gills are colored as the stem. Grows solitary of in scattered trooping groups, with broad-leaf trees. The mushroom is lethally poisonous."
+    },
+    
+    {
+        "scientific" : "Galerina marginata",
+        "common" : "Funeral Bell",
+        "edibility" : "Lethally poisonous",
+        "description" : "Galerina marginata, also known as Funeral Bell, is a small agaric with yellowish tan, sticky cap, similarly colored as the gills and a ring on the stem. It grows in clusters on stumps and logs of broad-leaf trees."
+    },
+    
+    {
+        "scientific" : "Gyromitra esculenta",
+        "common" : "False Morel",
+        "edibility" : "Lethally poisonous",
+        "description" : "Gyromitra esculenta, also know as False Morel, has a fruiting body that consists of an irregular, brown, brain-like structure on a pale stem. It grows solitary or in small trooping groups near conifers (pines), typically on acid, sandy soils."
+    },
+    
+    {
+        "scientific" : "Lactarius deliciosus",
+        "common" : "Saffron Milkcap",
+        "edibility" : "Edible and good",
+        "description" : "Lactarius deliciosus, also known as Saffron Milkcap, is an attractive, fairly large, buff agaric with distinctive salmon -pink blotches, pale carrot coloured gills. The mushroom exudes carroty milk, which is a significant characteristic for this mushroom. It grows grows solitary or in scattered groups on soil under conifers, favouring pine trees."
+    },
+    
+    {
+        "scientific" : "Lepista nuda",
+        "common" : "Wood Blewit",
+        "edibility" : "Edible",
+        "description" : "Lepista nuda, also know as Clitocybe nuda or Wood Blewit, is a medium-sized, fleshy agaric, with a brownish cap and lilac gills. It grows in trooping groups, often in rings, in leaf litter in deciduous and mixed woodland and under hedgerows during autumn and winter."
+    },
+
+    {
+        "scientific" : "Macrolepiota procera",
+        "common" : "Parasol Mushroom",
+        "edibility" : "Edible",
+        "description" : "Macrolepiota procera, also known as the Parasol Mushroom, is a spectacularly large, distinctive, pale brownish agaric that has a scaly cap, white gills, and a pale brownish stem with a snakeskin pattern and ring. It grows solitary, scattered or clustered on soil in open grassy places and in mixed woods."
+    },
+    
+    {
+        "scientific" : "Marasmius oreades",
+        "common" : "Fairy Ring Mushroom",
+        "edibility" : "Edible and good",
+        "description" : "Marasmius oreades, also known as Fairy Ring Marasmius, is a small agaric which is producing characteristic rings in turf. It has a bell-shaped to convex cap, which becomes flatter with a broad umbo with age."
+    },
+    
+    {
+        "scientific" : "Paxillus involutus",
+        "common" : "Poison Pax",
+        "edibility" : "Poisonous",
+        "description" : "This large agaric has a sometimes greasy, brown cap, and stem, and ochre-brown gills; it grows solitary or in trooping groups on soil in leaf woods."
+    },
+    
+    {
+        "scientific" : "Agaricus campestris",
+        "common" : "Edible",
+        "edibility" : "Meadow Mushroom",
+        "description" : "Commonly called the meadow mushroom, Agaricus campestris is a European species characterized by a white cap, stocky stature, non-staining surfaces and flesh, pink-then-brown gills, habitat in grass, and microscopic features, including a lack of true cheilocystidia."
+    },
+    
+    {
+        "scientific" : "Amanita caesarea",
+        "common" : "Caesar's mushroom",
+        "edibility" : "Edible and good",
+        "description" : "This mushroom has an orange-red cap, initially hemispherical before convex and finally flat. It is good to eat, although it is not recommended because it can be confused with red and orange forms of the poisonous Fly agaric, A. muscaria."
+    },
+    
+    {
+        "scientific" : "Clitocybe Geotropa",
+        "common" : "Monk's head",
+        "edibility" : "Edible",
+        "description" : "A large sturdy cream- or buff-coloured funnel-shaped mushroom, it grows in mixed woodlands, often in troops or fairy rings, one of which is over half a mile wide. Although edible, it could be confused with some poisonous species of similar colouration and size."
+    },
+    
+    {
+        "scientific" : "Craterellus cinereus",
+        "common" : "Chanterelle",
+        "edibility" : "Edible",
+        "description" : "They are orange, yellow or white, meaty and funnel-shaped. On the lower surface, underneath the smooth cap, most species have gill-like ridges that run almost all the way down its stipe, which tapers down seamlessly from the cap."
+    },
+    
+    {
+        "scientific" : "Pleurotus eryngii",
+        "common" : "King Trumpet Mushroom",
+        "edibility" : "Edible and good",
+        "description" : "It has a thick, meaty white stem and a small tan cap (in young specimens). The mushroom has a good shelf life and is cultivated widely. It has little flavor or aroma when raw. When cooked, it develops typical mushroom umami flavors with a texture similar to that of abalone."
+    },
+    
+    {
+        "scientific" : "Tuber melanosporum",
+        "common" : "Black truffle",
+        "edibility" : "Edible",
+        "description" : "The round, dark brown fruiting bodies (ascocarps) have a black-brown skin with small pyramidal cusps. They have a strong, aromatic smell and normally reach a size of up to 10 cm. The fruiting bodies of the black truffle exude a scent reminiscent of undergrowth, strawberries, wet earth or dried fruit with a hint of cocoa."
+    }
+]
