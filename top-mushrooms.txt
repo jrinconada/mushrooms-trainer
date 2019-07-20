@@ -16,7 +16,7 @@ Marasmius oreades	(Serenduela)
 Paxillus involutus
 Turbinellus floccosus
 
-Agaricus bisporus	(Champiñón)
+Agaricus campestris	(Champiñón silvestre)
 Amanita caesarea	(Oronja)
 Clitocybe Geotropa 	(Cabeza de fraile)
 Craterellus cinereus	(Trompeta de los muertos)
