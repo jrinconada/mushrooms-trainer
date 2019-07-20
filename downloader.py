@@ -23,22 +23,28 @@ def download_image(name):
         with open(folder + image, 'wb') as handler:
             handler.write(data)
 
-# Read the names of the mushrooms from a file
-with open('mushroom-list.txt', 'r') as file:
-    names = file.read()
+def read_mushroom_list(name):
+    # Read the names of the mushrooms from a file
+    with open(name, 'r') as file:
+        names = file.read()
 
-# Every line is a name with this format: Amanita muscaria (Fly Amanita)
-# We want to end up with a list of only tuples of scientific names: 
-# [...(Amanita, muscaria), (Amanita, pantherina)...]
-names = names.split('\n')
-scientific_names = []
-for name in names:
-    words = name.split(' ')
-    scientific_names.append((words[0], words[1]))
+    # Every line is a name with this format: Amanita muscaria (Fly Amanita)
+    # We want to end up with a list of only tuples of scientific names: 
+    # [...(Amanita, muscaria), (Amanita, pantherina)...]
+    names = names.split('\n')
+    scientific_names = []
+    for name in names:
+        words = name.split(' ')
+        scientific_names.append((words[0], words[1]))
 
-# Dowload all the images
-for mushroom in scientific_names:
-    download_image(mushroom)
+    return scientific_names
+
+def download_all(scientific_names):
+    # Dowload all the images
+    for mushroom in scientific_names:
+        download_image(mushroom)
+
+names = read_mushroom_list('mushroom-list.txt')
 
 # To get an specific mushroom page
 # get_page('http://www.mushroom.world/show?n=Agaricus-arvensis')
